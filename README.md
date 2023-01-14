@@ -1,2 +1,3 @@
 # Portafolio-v1---template-para-venta
 Este portafolio, que alguna vez he llegado a usar, hoy lo convertí en un template genérico dispuesto a ser reemplazado y personalizado por algún cliente. Fue mi primer portafolio y borrarlo sería como borrar mis primeros pasos como desarrollador web en el año 2020.
+El sitio web con su diseño simple, busca no sobrecargar de información a quien lo visite, y con una paleta de colores oscuros y letras claras, logra hacer crear una hegemonía minimalista que resulta agradable. Además, el responsive design está muy trabajado, para que aquel que lo visite de un dispositivo de menor resolución, se lleve una experiencia igual de amena que cualquier otro visitante de la página.
